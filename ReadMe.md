@@ -13,3 +13,7 @@ Simple works with everything
 
 - [JSON](Jailbreak/jailbreak_prompts.json)
 - [Markdown](Jailbreak/jailbreak_prompts.md)
+
+## React WEB
+
+- [React](Simple/react_web.md)
